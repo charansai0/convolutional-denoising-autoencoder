@@ -132,4 +132,4 @@ Thus, a Convolutional Auto Encoder for Denoising was sucessfully implemented.
 
 
 
-## RESULT
+
